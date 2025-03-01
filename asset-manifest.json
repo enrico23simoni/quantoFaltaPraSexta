@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quantoFaltaPraSexta/static/css/main.29de7674.css",
+    "main.js": "/quantoFaltaPraSexta/static/js/main.f699a325.js",
+    "index.html": "/quantoFaltaPraSexta/index.html",
+    "main.29de7674.css.map": "/quantoFaltaPraSexta/static/css/main.29de7674.css.map",
+    "main.f699a325.js.map": "/quantoFaltaPraSexta/static/js/main.f699a325.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29de7674.css",
+    "static/js/main.f699a325.js"
+  ]
+}
