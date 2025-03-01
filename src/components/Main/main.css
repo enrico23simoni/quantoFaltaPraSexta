@@ -1,0 +1,16 @@
+.divMain{
+    height: 100vh;
+    background-color: #C8ACD6;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+   
+}
+.mainText{
+margin-top: 30vh;
+color: #17153B;
+font-size: 150px;
+font-family: "Bangers", serif;
+font-weight: 400;
+font-style: normal;
+}
